@@ -37,7 +37,7 @@ Current implemented features:
 - Internal oracles (UCO Price Feed)
 - Tailored embedded database
 
-## Running a node for development purpose
+### Running a node for development purpose
 
 ### Using Elixir - MacOS specific setups
 
